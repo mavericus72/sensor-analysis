@@ -53,7 +53,7 @@ Basic statistical analysis was performed using mean and standard deviation:
 This project demonstrates a simplified version of predictive maintenance
 used in the automotive industry. By analyzing time-series sensor data,
 potential faults can be detected early, reducing maintenance costs and
-preventing system failures.
+preventing system failures.This project demonstrates a complete machine learning workflow including data simulation, regression modeling, evaluation using MAE, and proper train–test splitting.
 
 The same approach can be extended using machine learning and deep learning
 models for automated fault detection.
